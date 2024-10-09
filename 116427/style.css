@@ -1,0 +1,23 @@
+.title {
+    height: 50px;
+    color: aliceblue;
+    background-color: rgb(46, 252, 166);
+    margin: 0;
+    padding-top: 8px;
+    padding-left: 8px;
+    border-bottom: 4px solid #828385;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 21px;
+}
+
+#paragraph {
+    border-bottom: 4px solid #6bbfff;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    padding: 4px 4px 4px 8px;
+}
